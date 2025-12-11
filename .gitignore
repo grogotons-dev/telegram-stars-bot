@@ -1,0 +1,27 @@
+# Файлы окружения
+.env
+.env.local
+.env.*.local
+
+# Логи
+*.log
+logs/
+
+# Бэкапы базы
+*.db
+*.sqlite
+*.sqlite3
+
+# Питон
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env/
+venv/
+ENV/
+
+# Системные
+.DS_Store
+Thumbs.db
