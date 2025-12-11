@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Токен бота (получить у @BotFather)
-BOT_TOKEN = os.getenv("BOT_TOKEN", "")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8444488490:AAGAIwHuocatooxUK73Ziq9ycn9IJLbgZe8")
 
 # ID администраторов
 ADMIN_IDS = [123456789]  # Ваш ID
